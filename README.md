@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [A Shining](https://www.goodreads.com/review/show/8381388597?utm_medium=api&utm_source=rss) by Jon Fosse (⭐⭐⭐)
-- [Coraline](https://www.goodreads.com/review/show/6038117590?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐⭐⭐)
-- [Neon Genesis Evangelion, Vol. 14](https://www.goodreads.com/review/show/8347364518?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
-- [Neon Genesis Evangelion, Vol. 13](https://www.goodreads.com/review/show/8347364487?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
-- [Neon Genesis Evangelion, Vol. 12](https://www.goodreads.com/review/show/8347364464?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
+- [怪獣8号 8 [Kaijū 8-gō 8]](https://www.goodreads.com/review/show/8397828008?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
+- [怪獣8号 7 [Kaijū 8-gō 7]](https://www.goodreads.com/review/show/8397827513?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
+- [怪獣8号 6 [Kaijū 8-gō 6]](https://www.goodreads.com/review/show/8397826847?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
+- [怪獣8号 5 [Kaijū 8-gō 5]](https://www.goodreads.com/review/show/8397826266?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
+- [怪獣8号 4 [Kaijū 8-gō 4]](https://www.goodreads.com/review/show/8397825504?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
