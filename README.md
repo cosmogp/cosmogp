@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [怪獣8号 16 [Kaijū 8-gō 16]](https://www.goodreads.com/review/show/8404741763?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
-- [怪獣8号 15 [Kaijū 8-gō 15]](https://www.goodreads.com/review/show/8404741277?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
-- [怪獣8号 14 [Kaijū 8-gō 14]](https://www.goodreads.com/review/show/8404740734?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
-- [怪獣8号 13 [Kaijū 8-gō 13]](https://www.goodreads.com/review/show/8404740169?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
-- [怪獣8号 12 [Kaijū 8-gō 12]](https://www.goodreads.com/review/show/8404739025?utm_medium=api&utm_source=rss) by Naoya Matsumoto (⭐⭐⭐⭐)
+- [Blame!, Vol. 10](https://www.goodreads.com/review/show/8426180661?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
+- [Blame!, Vol. 9](https://www.goodreads.com/review/show/8426179878?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
+- [Blame!, Vol. 8](https://www.goodreads.com/review/show/8426178793?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
+- [Blame!, Vol. 7](https://www.goodreads.com/review/show/8426177263?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
+- [Blame!, Vol. 6](https://www.goodreads.com/review/show/8426176779?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
