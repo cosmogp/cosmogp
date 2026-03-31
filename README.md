@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [SPRIGGAN: Deluxe Edition 2](https://www.goodreads.com/review/show/8480910031?utm_medium=api&utm_source=rss) by Hiroshi Takashige (⭐⭐⭐⭐)
+- [SPRIGGAN: Deluxe Edition, Vol. 1](https://www.goodreads.com/review/show/8480909122?utm_medium=api&utm_source=rss) by Hiroshi Takashige (⭐⭐⭐⭐)
+- [Zăpezile de pe Kilimanjaro și alte povestiri](https://www.goodreads.com/review/show/2926185235?utm_medium=api&utm_source=rss) by Ernest Hemingway (⭐⭐⭐⭐)
 - [Blame!, Vol. 10](https://www.goodreads.com/review/show/8426180661?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
 - [Blame!, Vol. 9](https://www.goodreads.com/review/show/8426179878?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
-- [Blame!, Vol. 8](https://www.goodreads.com/review/show/8426178793?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
-- [Blame!, Vol. 7](https://www.goodreads.com/review/show/8426177263?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
-- [Blame!, Vol. 6](https://www.goodreads.com/review/show/8426176779?utm_medium=api&utm_source=rss) by Tsutomu Nihei (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
